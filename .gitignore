@@ -1,0 +1,15 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+*.local
+public/source.zip
+public/LICENSE.txt
+public/ATTRIBUTION.txt
+tsconfig.tsbuildinfo
+public/user-guide.html
+public/USER_GUIDE.md
+investigation/*
+!investigation/PORT-REPORT.txt
+.env
+.env.*
